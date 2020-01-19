@@ -1,1 +1,4 @@
-# hashtag-ar
+# #³
+
+Unity Project - /HashtagNRealActual/
+Backend - /Server/
